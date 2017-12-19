@@ -60,6 +60,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £20,000 for 6% equity.
 - [CARE ScaleXDesign](http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Climate KIC](http://www.climate-kic.org/for-entrepreneurs/accelerator/), Europe - 18-month programme for cleantech startups.
+- [Collective Global Accelerator](http://www.collectiveglobalaccelerator.com), London UK - 4-week programme for social entrepreneurs focused on creating strong communities in cities.
 - [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger.
 - [Dotforge](https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [EPIC Cambodia](http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
